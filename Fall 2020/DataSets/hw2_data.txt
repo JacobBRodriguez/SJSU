@@ -1,0 +1,87 @@
+Republicans in Senate  (Since 1959)
+Year
+Number  
+Yr   Republicans_in_Senate
+1960 36		
+1962 34		
+1964 32		
+1966 36		
+1968 43		
+1970 44		
+1972 42		
+1974 38		
+1976 38		
+1978 41		
+1980 53		
+1982 54		
+1984 53		
+1986 45		
+1988 45 
+1990 44 
+1992 43  
+1994 52  
+1996 55   
+1998 55  
+2000 50 
+2002 51 
+2004 55  
+2006 49 
+
+YEARLY MEAN SUNSPOT NUMBERS
+Year
+Sunspot Number
+Yr  Sunspot_Number 
+1960 112.3  
+1961  53.9  
+1962  37.6  
+1963  27.9  
+1964  10.2  
+1965  15.1  
+1966  47.0  
+1967  93.8  
+1968 105.9 
+1969 105.5 
+1970 104.5 
+1971  66.6  
+1972  68.9  
+1973  38.0  
+1974  34.5  
+1975  15.5  
+1976  12.6  
+1977  27.5  
+1978  92.5  
+1979 155.4 
+1980 154.6 
+1981 140.4 
+1982 115.9 
+1983  66.6  
+1984  45.9  
+1985  17.9  
+1986  13.4  
+1987  29.4  
+1988 100.2 
+1989 157.6 
+1990 142.6 
+1991 145.7 
+1992  94.3  
+1993  54.6  
+1994  29.9  
+1995  17.5  
+1996   8.6   
+1997  21.5  
+1998  64.3  
+1999  93.3  
+2000 119.6 
+2001 111.0 
+2002 104.0 
+2003  63.7  
+2004  40.4  
+2005  29.8  
+2006  15.2  
+
+Data sources:								   
+ftp://ftp.ngdc.noaa.gov/STP/SOLAR_DATA/SUNSPOT_NUMBERS/YEARLY
+http://www.senate.gov/pagelayout/history/one_item_and_teasers/partydiv.htm
+
+Notes: 
+Data are biennial (year of election) and don't take account of any between-election senatorial changes. Correlations were done on biennial data.
