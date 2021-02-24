@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <row>
+        <CardNumber>5.41E+15</CardNumber>
+        <CardType>Not a valid card</CardType>
+    </row>
+    <row>
+        <CardNumber>4.12E+12</CardNumber>
+        <CardType>Not a valid card</CardType>
+    </row>
+    <row>
+        <CardNumber>3.41E+14</CardNumber>
+        <CardType>Not a valid card</CardType>
+    </row>
+    <row>
+        <CardNumber>6.01E+15</CardNumber>
+        <CardType>Not a valid card</CardType>
+    </row>
+    <row>
+        <CardNumber>4465400302929395</CardNumber>
+        <CardType>Visa</CardType>
+    </row>
+</root>
